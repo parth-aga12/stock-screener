@@ -13,6 +13,7 @@ Python (for backend server, if using Flask/Django)
 ## Installation
 ### Clone Repository:
 git clone <repository_url>
+
 cd stock-screener
 
 ### Install dependancies:
